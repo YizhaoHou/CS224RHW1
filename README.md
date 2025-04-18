@@ -11,9 +11,8 @@ This project implements **Behavior Cloning (BC)** and **DAgger** for imitation l
 
 ##  How to Run
 
-### ➤ Behavior Cloning (BC)
+### ➤ Behavior Cloning (BC) Problem 1
 
-Train a policy using expert demonstration data only.
 
 ```bash
 python cs224r/scripts/run_hw1.py \
